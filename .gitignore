@@ -145,3 +145,4 @@ cython_debug/
 Model_Save/
 Inference/
 .vscode/
+.vscode/settings.json

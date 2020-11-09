@@ -1,6 +1,5 @@
 import torch
 import torchvision.transforms as transforms
-import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image
 from pathlib import Path
