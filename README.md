@@ -23,7 +23,7 @@
 
 # Current build issues
 
-* Train function only works on Linux Machines (if you found it working on a Windows machine please let me know)
+* Train and test function only works on Linux Machines for now (if you found it working on a Windows machine please let me know)
 
 
 
