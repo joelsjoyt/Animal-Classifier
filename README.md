@@ -12,7 +12,7 @@
 
 # Note
     * For Training testing and Inference you need data.zip and conda environment with Dependencies from requirements.txt
-    * For Inference only you need  Animal_Classifier_80-10-10.pth and conda environment
+    * For Inference only you need  Animal_Classifier_80-10-10.pth and conda environment ith Dependencies from requirements.txt
 
 * ## Contain a full DL structure from training to testing to inference
 * The codes are created in a modular manner which helps if you want to create a new project
