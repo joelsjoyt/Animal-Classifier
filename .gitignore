@@ -145,7 +145,8 @@ cython_debug/
 
 #Model save and inference
 Model_Save\Animal_classifier.pth
-Inference/
+Inference\test1.jpg
 .vscode
 .vscode\settings.json
 Model_Save/Animal_classifier.pth
+*.jpg
