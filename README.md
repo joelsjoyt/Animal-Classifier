@@ -22,13 +22,14 @@
 * Used dataset is Animals-10 clasification dataset from kaggle
 * Dataset link https://www.kaggle.com/alessiocorrado99/animals10/notebooks
 * The Dataset from Kaggle has been altered to satisfy the needs of thsis project 
-* Augumented Dataset https://drive.google.com/file/d/1_5m9TTmr3NeClO75MtPzVixeShG1Qp2_/view?usp=sharing
-* Model trained by me if you want to test any images in the listed 10 classes https://drive.google.com/file/d/1kXXzu_biwAQRnRmw9PSq9qLrucD9wvDS/view?usp=sharing
-
 
 * If you have suggestion to improve the code feel free to let me know
 * If you like the project please prove a '*' to this repo
 * Follow me for more projects like this
+
+# Downloads
+* Augumented Dataset https://drive.google.com/file/d/1_5m9TTmr3NeClO75MtPzVixeShG1Qp2_/view?usp=sharing
+* Model trained by me if you want to test any images in the listed 10 classes https://drive.google.com/file/d/1kXXzu_biwAQRnRmw9PSq9qLrucD9wvDS/view?usp=sharing
 
 # Current build issues
 
