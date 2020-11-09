@@ -1,5 +1,5 @@
 
-# *Animal Classifier app using Pytorch  framework by Facebook*
+# *Animal Classifier app using Pytorch  framework *
 
 # Instructios to run this 
     * Install Anaconda
