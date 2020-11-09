@@ -5,7 +5,9 @@ src/__pycache__
 *$py.class
 
 #Dataset ignore
-data/
+data/test
+data/train
+data/val
 
 # C extensions
 *.so
@@ -142,7 +144,8 @@ dmypy.json
 cython_debug/
 
 #Model save and inference
-Model_Save/
+Model_Save\Animal_classifier.pth
 Inference/
 .vscode
-.vscode/settings.json
+.vscode\settings.json
+Model_Save/Animal_classifier.pth
