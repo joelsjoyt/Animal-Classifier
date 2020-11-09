@@ -8,7 +8,11 @@
     * Run main.py
     * Do not run train if you dont have a GPU for training
     * Extract and move contents from data.zip to data folder
-    * Download Animal_Classifier_80-10-10 and remane it to Animal_Classifier then move it to Model_Save folder for testing the model
+    * Download Animal_Classifier_80-10-10.pth and remane it to Animal_Classifier.pth then move it to Model_Save folder
+
+# Note
+    * For Training testing and Inference you need data.zip and conda environment with Dependencies from requirements.txt
+    * For Inference only you need  Animal_Classifier_80-10-10.pth and conda environment
 
 * ## Contain a full DL structure from training to testing to inference
 * The codes are created in a modular manner which helps if you want to create a new project
