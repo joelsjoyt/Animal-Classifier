@@ -15,6 +15,7 @@
 * ## Available animals are dog, horse, elephant, butterfly, chicken, cat, cow, sheep, spider, squirrel
 * Used dataset is Animals-10 clasification dataset from kaggle
 * Dataset link https://www.kaggle.com/alessiocorrado99/animals10/notebooks
+* The Dataset from Kaggle has been altered to satisfy the needs of thsis project and if you require that datastet feel free to contact me
 
 * If you have suggestion to improve the code feel free to let me know
 * If you like the project please prove a '*' to this repo
@@ -22,7 +23,7 @@
 
 # Current build issues
 
-* Train function only works on Linux Machines ( if you found it working on a Windows machine please let me know)
+* Train function only works on Linux Machines (if you found it working on a Windows machine please let me know)
 
 
 
